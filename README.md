@@ -1,1 +1,1 @@
-# merge-conflict
+This is in fact a sentence.
